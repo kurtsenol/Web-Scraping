@@ -1,0 +1,10 @@
+*.docx
+*.json
+*.csv
+*.txt
+*.pdf
+*.xls
+*.xlsx
+*.exe
+.ipynb_checkpoints/
+Data/
